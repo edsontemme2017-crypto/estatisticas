@@ -1,0 +1,42 @@
+# Ambiente virtual
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Flutter
+football_stats_app/build/
+football_stats_app/.dart_tool/
+football_stats_app/.flutter-plugins
+football_stats_app/.flutter-plugins-dependencies
+football_stats_app/.packages
+football_stats_app/pubspec.lock
+
+# Backend
+backend/.venv/
+backend/__pycache__/
+
+# Docker
+.docker/
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.key
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
