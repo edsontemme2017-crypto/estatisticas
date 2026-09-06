@@ -1,0 +1,22 @@
+{
+  "home_team": {
+    "team_id": "team-a",
+    "goals_for_avg": 1.8,
+    "goals_against_avg": 1.2,
+    "corners_for_avg": 5.4,
+    "corners_against_avg": 4.2,
+    "wins": 3,
+    "draws": 1,
+    "losses": 1
+  },
+  "away_team": {
+    "team_id": "team-b",
+    "goals_for_avg": 1.4,
+    "goals_against_avg": 1.6,
+    "corners_for_avg": 4.8,
+    "corners_against_avg": 5.0,
+    "wins": 2,
+    "draws": 2,
+    "losses": 1
+  }
+}
